@@ -1,0 +1,12 @@
+C:\project\SerialPortConnection\vcs_serial_communication\SerialPortConnection\bin\Debug\SerialPortConnection.dll.config
+C:\project\SerialPortConnection\vcs_serial_communication\SerialPortConnection\bin\Debug\SerialPortConnection.dll
+C:\project\SerialPortConnection\vcs_serial_communication\SerialPortConnection\bin\Debug\SerialPortConnection.pdb
+C:\project\SerialPortConnection\vcs_serial_communication\SerialPortConnection\bin\Debug\NModbus4.dll
+C:\project\SerialPortConnection\vcs_serial_communication\SerialPortConnection\bin\Debug\NModbus4.xml
+C:\project\SerialPortConnection\vcs_serial_communication\SerialPortConnection\obj\Debug\ModbusRtu_M7024.ModbusRtu_M7024.resources
+C:\project\SerialPortConnection\vcs_serial_communication\SerialPortConnection\obj\Debug\SerialPortConnection.Properties.Resources.resources
+C:\project\SerialPortConnection\vcs_serial_communication\SerialPortConnection\obj\Debug\ModbusRtu_M7024.csproj.GenerateResource.cache
+C:\project\SerialPortConnection\vcs_serial_communication\SerialPortConnection\obj\Debug\ModbusRtu_M7024.csproj.CoreCompileInputs.cache
+C:\project\SerialPortConnection\vcs_serial_communication\SerialPortConnection\obj\Debug\ModbusRtu_M7024.csproj.CopyComplete
+C:\project\SerialPortConnection\vcs_serial_communication\SerialPortConnection\obj\Debug\SerialPortConnection.dll
+C:\project\SerialPortConnection\vcs_serial_communication\SerialPortConnection\obj\Debug\SerialPortConnection.pdb
