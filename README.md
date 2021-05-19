@@ -26,8 +26,3 @@
   
     1. build(.exe , .dll)
 
-### 보완사항
-
-  1. serial Port 세팅 정보 : (portSetting() 세팅)
-  2. serial Port 세팅 후 연결 및 해제 예외처리 확인 완료
-  3. create dll
